@@ -30,6 +30,7 @@ and install [`bilby`](https://bilby-dev.github.io/bilby/installation.html), whic
 
 ```
 conda install -c conda-forge bilby
+
 ```
 
 We now need to clone the repository where all exercises are stored:
