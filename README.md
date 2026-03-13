@@ -30,7 +30,6 @@ and install [`bilby`](https://bilby-dev.github.io/bilby/installation.html), whic
 
 ```
 conda install -c conda-forge bilby
-
 ```
 
 We now need to clone the repository where all exercises are stored:
@@ -46,12 +45,8 @@ cd hands-on_bayesian_inference
 jupyter lab
 ```
 
-Once jupyter lab opens in your web browser, select the conda environment we just created. Go on the top right corner and select bayes_env.
+Once jupyter lab opens in your web browser, select the conda environment we just created. Go on the top right corner and select bayes_env. Please note that this might be already the case.
 
-Open the jupyter notebook named `LinearInference.ipynb`
+Open the jupyter notebook named [`LinearInference.ipynb`](https://github.com/filippo-santoliquido/hands-on_bayesian_inference/blob/main/LinearInference.ipynb)
 
-
-
-### Easter egg
-
-Do you know what a Bilby is? 😃
+### 
